@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Rice",
+        "price": 25000,
+        "quantity": 5
+    },
+    {
+        "name": "Beans",
+        "price": 18000,
+        "quantity": 4
+    },
+    {
+        "name": "Cooking Oil",
+        "price": 12000,
+        "quantity": 0
+    },
+    {
+        "name": "Spaghetti",
+        "price": 8500,
+        "quantity": 4
+    }
+]
